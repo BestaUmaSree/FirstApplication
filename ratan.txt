@@ -1,1 +1,5 @@
-ratan sir
+Advantages of git:
+   we can have Branching capabities
+   code  tracking is easy
+	open source Platform
+
